@@ -31,7 +31,7 @@ To run the project with example test case
 `npm run cy:open`
 
 If this screen appear then... you've made it!
-![alt text](https://user-images.githubusercontent.com/24618908/91930062-1bcb8500-ed0a-11ea-89dc-0300fd6dc960.png)
+![alt text](https://user-images.githubusercontent.com/24618908/91930687-b7112a00-ed0b-11ea-8848-ac2a649b8f80.png)
 
 Choose `a_simplest_test.js` for the most simple test case, happy testing ^^
 +1 (don't forget to change <your_username> and <your_password> in file a_simplest_test.js)
